@@ -1,6 +1,6 @@
 /********************************************************************************
 * PROJECT:	Informalidad - Peru                                 
-* TITLE: 	
+* TITLE: 	Informalidad en el Mercado Laboral Peruano
 * YEAR:		2021
 *********************************************************************************
 	
@@ -69,9 +69,9 @@
 	
 *** Creating easy to read long versions of datasets
 	if (${cleaning}==1) {
-		do "${dofiles}/cleaning/01_emnv_2005_population.do"
-		do "${dofiles}/cleaning/02_emnv_2009_population.do"
-		do "${dofiles}/cleaning/03_emnv_2014_population.do"
+		do "${dofiles}/cleaning/01_enaho_2017_empleo.do"
+		do "${dofiles}/cleaning/02_enaho_2018_empleo.do"
+		do "${dofiles}/cleaning/03_enaho_2019_empleo.do"
 	}
 	
 *** Append datasets
