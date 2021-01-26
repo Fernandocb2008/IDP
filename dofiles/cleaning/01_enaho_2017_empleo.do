@@ -171,13 +171,14 @@ lab var nrama_pri "Nivel por grupos de actividad Principal"
 	// Occupation
 	label define occup 	1 "Directivos de Empresas y Poderes del Estado" ///
 						2 "Profesionales Científico e Intelectuales"	///
-						3 "Técnicos y Profecionales de nivel medio"		///
-						4 "Empleados de Oficina"  						///
-						5 "Trabajadores de Servicios y Vendedores"		///
-						6 "Trabajadores calificados del sector agropecuario y pesquero" ///
-						7 "Oficiales, Operarios y Artesanos."			///
-						8 "Operadores de Instalaciones y Máquinas"		///
-						9 "Trabajadores no Calificados"	0 "Fuerzas Armadas"
+						3 "Profesionales técnicos"		///
+						4 "Jefes y empleados administrativos"  						///
+						5 "Trabajadores de los servicios y vendedores de comercios y mercados"		///
+						6 "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros" ///
+						7 "Trabajadores de la construc., edificación, productos artesanales, electricidad y las telecom."			///
+						8 "Operadores de maquinaria industrial, ensambladores y conductores de transporte"		///
+						9 "Ocupaciones elementales"					///
+						0 "Ocupaciones Militares y Policiales"
 
 
 						
